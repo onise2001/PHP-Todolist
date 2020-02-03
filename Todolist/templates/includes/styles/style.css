@@ -1,0 +1,14 @@
+ul{
+    list-style: none;
+}
+
+.container{
+    margin-top:100px ;
+    margin-bottom:100px ;
+
+}
+
+#delete-todo{
+    color:red !important;
+    
+}
