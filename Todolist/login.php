@@ -1,6 +1,5 @@
 <?php
    require_once "config/init.php";
-   include_once "C:/xampp/htdocs/Todolist/config/init.php";
    $user = new User();
    $login_error ='';
     if(isset($_POST['submit'])){

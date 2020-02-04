@@ -22,7 +22,7 @@
         );
 
           if($todo_service->addTodo($todo)){
-              echo 'success';
+              echo json_encode($todo);
           }
        }
       

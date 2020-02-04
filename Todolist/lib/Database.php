@@ -1,5 +1,6 @@
 <?php  
-include_once "C:/xampp/htdocs/Todolist/config/init.php";
+    include_once "C:/xampp/htdocs/PHP-Todolist/Todolist/config/init.php";
+
 
 
 class Database{
